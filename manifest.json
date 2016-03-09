@@ -1,0 +1,14 @@
+{
+  "name": "Sessionslogning-simulator",
+  "version": "0.0.1",
+  "description": "Simulerer den kommende sessionslogning. Få Søren Pind med dig over alt på internettet. Lavet af @kennethlarsen",
+  "manifest_version": 2,
+  "content_scripts": [ {
+    "js": [ "jquery-2.0.2.min.js", "background.js" ],
+    "css":["pind.css"],
+    "matches": [ "http://*/*", "https://*/*"]
+  }],
+  "icons": { "128": "Zombie.png"},
+  "web_accessible_resources": [
+   "img/*.png"]
+}
