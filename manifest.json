@@ -1,6 +1,6 @@
 {
   "name": "Sessionslogning-simulator",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Simulerer den kommende sessionslogning. Få Søren Pind med dig over alt på internettet. Lavet af @kennethlarsen",
   "manifest_version": 2,
   "content_scripts": [ {
