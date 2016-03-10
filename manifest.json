@@ -8,7 +8,7 @@
     "css":["pind.css"],
     "matches": [ "http://*/*", "https://*/*"]
   }],
-  "icons": { "128": "Zombie.png"},
+  "icons": { "128": "zombie.png"},
   "web_accessible_resources": [
    "img/*.png"]
 }
